@@ -1,8 +1,9 @@
 # Tests.py
 
+
 def test_een():
 	# Test of een plus een twee is
-	assert 1 + 1 == 2
+	assert 1 + 1 == 3
 	
 def test_twee():
 	# Test of een plus twee vijf is
